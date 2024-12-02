@@ -16,7 +16,7 @@ Smart Retail AI aims to revolutionize the retail experience by leveraging artifi
 ## **Features**
 1. **Customer Recognition**: Identify customers using facial recognition.
 2. **Object Detection**: Detect and identify purchased items in real-time.
-3. **Cashless Payment System**: Integrated payment gateways for seamless transactions.
+3. **Virtual Wallet Payments**: Seamless transactions using integrated virtual wallet systems.
 4. **Web-Based Interface**: Manage customer data, transactions, and analytics.
 5. **Personalized Services**: Provide tailored recommendations for member-based retail stores.
 
@@ -43,7 +43,21 @@ Smart Retail AI aims to revolutionize the retail experience by leveraging artifi
 - **Backend**: Node.js, Express.js.
 - **Frontend**: React.js with Tailwind CSS.
 - **Database**: MongoDB for storing user and transaction data.
-- **Payment Gateway Integration**: Razorpay/Paytm/Stripe for seamless payments.
+---
+
+## **Hackathon Details**
+This project was created as part of the **Avinya 2024 Hackathon**, organized by **SJC Institute of Technology, Chickballapur, Karnataka**.  
+### **About the Hackathon**
+- **Organizer**: SJC Institute of Technology  
+- **Event Name**: Avinya 2024 Hackathon  
+
+The project was built within the time constraints of the hackathon by our team of passionate developers and problem-solvers.
+
+### **Team Members**
+- **Revanasidda N Karigoudar**  
+- **Sagar**  
+- **Yash**  
+- **Zaheer**
 
 ---
 
@@ -53,7 +67,7 @@ Smart Retail AI aims to revolutionize the retail experience by leveraging artifi
 - Node.js and npm installed
 - Python (for ML models)
 - MongoDB database setup
-- Environment variables configured for payment gateway and database
+- Environment variables configured for wallet and database
 
 ### **2. Clone the Repository**
 ```bash
